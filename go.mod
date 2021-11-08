@@ -1,4 +1,4 @@
-module github.com/feliperyan/chatcd
+module github.com/GoogleCloudPlatform/deploybot
 
 go 1.16
 
