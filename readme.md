@@ -1,5 +1,7 @@
 # Google Cloud Deploy Bot
-### Aloha mahalo
+### Push Google Cloud Deploy notifications to Slack or Google Chat! 
+
+This repo is indended as an example, and as a first step, on adding [Google Cloud Deploy](https://cloud.google.com/deploy) to you _ChatOps_ suite of integrations. 
 
 ## Examples
 
